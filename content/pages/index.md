@@ -95,7 +95,7 @@ sections:
           Highly 
 
           recommended."
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: Michael M from Hamlyn Terrace, NSW
         text: ''
         image:
