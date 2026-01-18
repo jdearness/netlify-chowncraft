@@ -36,7 +36,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Hipages",
             "altText": "",
             "url": "https://hipages.com.au/connect/michaelchown",
             "showIcon": false,
