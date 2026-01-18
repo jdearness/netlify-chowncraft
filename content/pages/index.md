@@ -119,7 +119,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: '"Connected with Michael Chown and would recommend him."'
-        tagline: Testimonial 3
+        tagline: Timber Decking
         subtitle: Darryl K from Lake Munmorah, NSW
         text: ''
         image:
