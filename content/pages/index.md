@@ -65,10 +65,7 @@ sections:
           Christmas."
         tagline: Testimonial 1
         subtitle: Mayur D from Wyong, NSW
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
