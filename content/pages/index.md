@@ -154,7 +154,7 @@ sections:
 
           We will be rehiring when we are ready to finish our laundry.”
         tagline: Testimonial 4
-        subtitle: Maria Walters, Company
+        subtitle: Maddie G from San Remo, NSW
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
