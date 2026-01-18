@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/Screenshot 2026-01-18 151205.png",
+        "url": "/images/Logo.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -13,13 +13,26 @@
     },
     "primaryLinks": [
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "type": "Button",
+            "label": "Contact",
+            "altText": "",
+            "url": "/contact",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Work Examples",
+            "altText": "",
+            "url": "/blog",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
