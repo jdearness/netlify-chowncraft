@@ -144,8 +144,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Highly recommend Michael! professional, workmanship spot on and such
+          a friendly man
+
+          after 7yrs we finally have a beautiful kitchen! 
+
+
+          100% recommend to anyone needing work. 
+
+          We will be rehiring when we are ready to finish our laundry.”
         tagline: Testimonial 4
         subtitle: Maria Walters, Company
         text: >-
