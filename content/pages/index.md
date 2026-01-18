@@ -64,7 +64,7 @@ sections:
           complete the job within two days working longer hours right before 
           Christmas."
         tagline: Testimonial 1
-        subtitle: Maria Walters, Company
+        subtitle: Mayur D from Wyong, NSW
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
