@@ -153,7 +153,7 @@ sections:
           100% recommend to anyone needing work. 
 
           We will be rehiring when we are ready to finish our laundry.”
-        tagline: Testimonial 4
+        tagline: Kitchen Cabinet Making
         subtitle: Maddie G from San Remo, NSW
         text: ''
         image:
