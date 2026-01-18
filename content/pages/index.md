@@ -94,7 +94,7 @@ sections:
           Highly 
 
           recommended."
-        tagline: ''
+        tagline: Cabinet Making
         subtitle: Michael M from Hamlyn Terrace, NSW
         text: ''
         image:
