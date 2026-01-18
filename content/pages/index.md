@@ -44,37 +44,17 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -261,12 +241,23 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: Contact Me
       color: text-dark

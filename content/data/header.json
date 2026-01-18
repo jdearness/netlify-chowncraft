@@ -33,6 +33,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Hipages",
+            "altText": "",
+            "url": "https://hipages.com.au/connect/michaelchown",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
