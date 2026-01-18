@@ -88,8 +88,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Michael, completed an integrated fridge cabinetry, his workmanship
+          is 
+
+          sound. Well priced, professional, punctual, polite and friendly.
+          Highly 
+
+          recommended."
         tagline: Testimonial 2
         subtitle: John Doe, Company
         text: >-
