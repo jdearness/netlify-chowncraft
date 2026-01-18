@@ -57,7 +57,7 @@ sections:
           - pr-3
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our customers say
     items:
       - title: |-
           "Michael was excellent with getting my deck upgraded. He was able to 
