@@ -8,10 +8,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: When Quality Counts
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **Why chase a range of tradies when a single provider can take care of
+      multiple needs?**
+
+
+      Providing a one stop shop to deal with home maintenance, basic plumbing,
+      construction, tiling, paving, brick and block work.
+
+
+      Whilst my specialty is carpentry and custom cabinet making, my eye for
+      detail and craftsmanship in all that I do ensures a high quality finish
+      every time.
+
+
+
     actions:
       - label: Get started
         altText: ''
