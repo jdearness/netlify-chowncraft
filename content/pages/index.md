@@ -202,7 +202,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Please contact me for a quote
+      I'd love to hear from you
     media:
       fields:
         - name: name
