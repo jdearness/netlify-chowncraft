@@ -738,7 +738,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Chown Craft
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Chown Craft. Carpentry and Home Repair Services.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
