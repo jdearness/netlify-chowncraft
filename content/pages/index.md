@@ -121,10 +121,7 @@ sections:
       - title: '"Connected with Michael Chown and would recommend him."'
         tagline: Testimonial 3
         subtitle: Darryl K from Lake Munmorah, NSW
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
