@@ -63,7 +63,7 @@ sections:
           "Michael was excellent with getting my deck upgraded. He was able to 
           complete the job within two days working longer hours right before 
           Christmas."
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: Mayur D from Wyong, NSW
         text: ''
         image:
