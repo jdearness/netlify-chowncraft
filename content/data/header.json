@@ -25,7 +25,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Work Examples",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
