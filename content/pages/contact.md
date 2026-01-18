@@ -56,7 +56,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
 slug: contact
 isDraft: false
 seo:
