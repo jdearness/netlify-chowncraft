@@ -46,6 +46,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "https://hipages.com.au/connect/michaelchown",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
