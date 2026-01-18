@@ -88,8 +88,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Michael, completed an integrated fridge cabinetry, his workmanship
-          is 
+          "Michael completed an integrated fridge cabinetry, his workmanship is 
 
           sound. Well priced, professional, punctual, polite and friendly.
           Highly 
