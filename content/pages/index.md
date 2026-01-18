@@ -59,9 +59,10 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: |-
+          "Michael was excellent with getting my deck upgraded. He was able to 
+          complete the job within two days working longer hours right before 
+          Christmas."
         tagline: Testimonial 1
         subtitle: Maria Walters, Company
         text: >-
