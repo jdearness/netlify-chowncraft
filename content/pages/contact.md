@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Make an Enquiry
       color: text-dark
-    subtitle: Make and Equiry
+    subtitle: ''
     text: |
       To make an enquiry, or request a quote, please submit the form.
     actions: []
