@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Chown Craft
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Turngin dreams into reality
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Why chase a range of tradies when a single provider can take care of multiple needs. Providing a one stop shop to deal with home maintenance, basic plumbing, construction, tiling, paving, brick and block work. Whilst my speciality is carpentry and custom cabinet making, my eye for detail and craftsmanship in all that I do ensures a high quality finish every time.
     actions:
       - label: Get started
         altText: ''
