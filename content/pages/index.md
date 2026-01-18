@@ -157,7 +157,7 @@ sections:
         subtitle: Maddie G from San Remo, NSW
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/maddieG.png
           altText: Maria Walters
           styles:
             self:
