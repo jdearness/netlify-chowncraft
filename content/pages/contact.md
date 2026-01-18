@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Make an Enquiry
       color: text-dark
     subtitle: Make and Equiry
     text: |
