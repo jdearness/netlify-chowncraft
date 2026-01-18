@@ -201,8 +201,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      I'd love to hear from you
+    text: >
+      I'd love to hear from you, whether you need a quote or just making an
+      enquiry.
     media:
       fields:
         - name: name
